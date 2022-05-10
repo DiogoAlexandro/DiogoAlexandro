@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Flask, Django...**
 
-- 💬 Ask me about **react, ionic, python, php**
+- 💬 Ask me about **Java, javascript, python, php**
 
 - 📫 How to reach me **dodo.alexandro@gmail.com**
 
